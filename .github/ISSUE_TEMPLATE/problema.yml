@@ -1,0 +1,54 @@
+name: Problema durante o teste
+description: Conte o que aconteceu para ajudar a melhorar o neivboom.
+title: "[Teste] "
+body:
+  - type: input
+    id: versao
+    attributes:
+      label: Versão do neivboom
+      placeholder: Exemplo: 0.2.5
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Versão do Windows
+      placeholder: Exemplo: Windows 11
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Em qual área aconteceu?
+      options:
+        - Instalação ou atualização
+        - Visão geral ou sensores
+        - Jogos e FPS
+        - Overlay ou gargalo
+        - Benchmarks ou stress test
+        - Programas
+        - USB
+        - Drivers
+        - Discos ou rede
+        - Outra área
+    validations:
+      required: true
+  - type: textarea
+    id: problema
+    attributes:
+      label: O que aconteceu?
+      description: Explique o que você esperava e o que o programa apresentou.
+    validations:
+      required: true
+  - type: textarea
+    id: passos
+    attributes:
+      label: Como reproduzir
+      description: Liste os passos e, se houver, copie a mensagem de erro. Você também pode anexar uma captura de tela.
+    validations:
+      required: true
+  - type: input
+    id: hardware
+    attributes:
+      label: Hardware (opcional)
+      placeholder: Modelos da CPU, GPU e quantidade de RAM
