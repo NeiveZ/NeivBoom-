@@ -21,7 +21,7 @@ O **neivboom** reúne informações de hardware, sensores e diagnóstico de dese
 
 <img src="assets/visao-geral.png" alt="Painel do neivboom com gráfico ao vivo, componentes, memória e informações do computador" width="100%">
 
-<sub>Captura da interface. As leituras e a disponibilidade dos sensores variam conforme o computador e as permissões do Windows.</sub>
+<sub>Imagens ilustrativas com dados fictícios, editadas para preservar a privacidade. Não representam uma medição real. As leituras e a disponibilidade dos sensores variam conforme o computador e as permissões do Windows.</sub>
 
 ### O que você encontra
 
