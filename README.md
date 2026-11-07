@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NeiveZ/neivboom-releases/releases/latest/download/NeiveZ.neivboom-win-Setup.exe"><img src="assets/download-windows.svg" alt="Baixar instalador para Windows x64" width="280"></a>
+  <a href="https://github.com/NeiveZ/neivboom/releases/latest/download/NeiveZ.neivboom-win-Setup.exe"><img src="assets/download-windows.svg" alt="Baixar instalador para Windows x64" width="280"></a>
 </p>
 
 <p align="center">
   <strong>Windows x64</strong> &nbsp;·&nbsp; <strong>Versão beta</strong> &nbsp;·&nbsp; <strong>Interface em português</strong><br>
-  <a href="https://github.com/NeiveZ/neivboom-releases/releases/latest">Novidades da versão</a> &nbsp; / &nbsp;
+  <a href="https://github.com/NeiveZ/neivboom/releases/latest">Novidades da versão</a> &nbsp; / &nbsp;
   <a href="#instalação">Como instalar</a> &nbsp; / &nbsp;
-  <a href="https://github.com/NeiveZ/neivboom-releases/issues/new?template=problema.yml">Relatar um problema</a>
+  <a href="https://github.com/NeiveZ/neivboom/issues/new?template=problema.yml">Relatar um problema</a>
 </p>
 
 ---
@@ -78,13 +78,13 @@ Confira as informações da versão e a [orientação oficial da Microsoft](http
 - **Source code:** arquivo automático do repositório de distribuição; não é o instalador.
 - Os arquivos `.nupkg`, `.json` e `RELEASES` são usados pelo mecanismo de atualização.
 
-Você encontra as opções na [última versão publicada](https://github.com/NeiveZ/neivboom-releases/releases/latest).
+Você encontra as opções na [última versão publicada](https://github.com/NeiveZ/neivboom/releases/latest).
 
 </details>
 
 ### Ajude a melhorar o neivboom
 
-Encontrou um problema durante o teste? [Abra um relato](https://github.com/NeiveZ/neivboom-releases/issues/new?template=problema.yml) com a versão utilizada, o que você tentou fazer e o resultado observado. Uma captura de tela ajuda a reproduzir o caso.
+Encontrou um problema durante o teste? [Abra um relato](https://github.com/NeiveZ/neivboom/issues/new?template=problema.yml) com a versão utilizada, o que você tentou fazer e o resultado observado. Uma captura de tela ajuda a reproduzir o caso.
 
 ---
 
@@ -92,3 +92,7 @@ Encontrou um problema durante o teste? [Abra um relato](https://github.com/Neive
   <strong>neivboom</strong> &nbsp;·&nbsp; Desenvolvido por <a href="https://github.com/NeiveZ">NeiveZ</a><br>
   <sub>Canal oficial de instaladores, versões e relatos de teste.</sub>
 </p>
+
+### Segurança e privacidade
+
+Consulte a [política de segurança](SECURITY.md), os [avisos de privacidade](PRIVACY.md) e as [orientações de suporte](SUPPORT.md). Não publique vulnerabilidades ou dados pessoais em issues. Não desative proteções do Windows para executar a distribuição beta.
