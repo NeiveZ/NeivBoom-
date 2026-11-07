@@ -6,14 +6,14 @@ body:
     id: versao
     attributes:
       label: Versão do neivboom
-      placeholder: Exemplo: 0.2.5
+      placeholder: "Exemplo: 0.2.5"
     validations:
       required: true
   - type: input
     id: windows
     attributes:
       label: Versão do Windows
-      placeholder: Exemplo: Windows 11
+      placeholder: "Exemplo: Windows 11"
     validations:
       required: true
   - type: dropdown
