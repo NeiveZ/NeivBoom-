@@ -15,7 +15,7 @@
 
 O **NeivBoom!** ajuda você a acompanhar o computador, medir a fluidez dos jogos e entender o que pode estar limitando o desempenho — com números acompanhados de explicações.
 
-> **Qual versão estou vendo?** O download público atual é a **0.2.5**, uma versão de testes. A **Alpha v1.0 (`1.0.0-alpha.1`)** está em validação local. A apresentação abaixo inclui prévias dessa Alpha; seus recursos ainda não estão todos no instalador público.
+> **Qual versão estou vendo?** O download público atual é o **NeivBoom! Alpha v1.5 (`1.0.0-alpha.5`)**, uma versão de testes para Windows x64. A apresentação e a galeria abaixo são ilustrativas e podem mostrar telas diferentes das do instalador.
 
 ### Uma introdução em 20 segundos
 
@@ -36,7 +36,7 @@ O **NeivBoom!** ajuda você a acompanhar o computador, medir a fluidez dos jogos
 | **Programas, USB e drivers** | Entender itens do sistema e acessar controles elegíveis, inventário e backup. |
 | **Relatórios** | Guardar resultados para comparar e compartilhar após revisar dados pessoais. |
 
-### Em preparação na Alpha v1.0
+### Recursos ilustrados na apresentação
 
 - **Diagnóstico explicado:** última amostra da partida, significado das métricas e limitações da interpretação.
 - **Testes visuais:** renderização pela CPU e cena procedural Direct3D 11 pela GPU.
